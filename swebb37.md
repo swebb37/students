@@ -1,5 +1,6 @@
 # Skyla Webb - Computer Science Major
 ## NetID / Github Username (they're the same): swebb37
+## Groupname: Paintappgroup
 
 ## Known Languages / Software
 * C
